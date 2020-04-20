@@ -1,1 +1,1 @@
-# C3DfMRI
+# Complex Valued Restricted Boltzman Machine Autoencoder 
