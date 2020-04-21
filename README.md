@@ -1,1 +1,1 @@
-# Complex Valued Restricted Boltzman Machine Autoencoder 
+# Complex Valued Restricted Boltzmann Machine Autoencoder to Approach Synchrony
