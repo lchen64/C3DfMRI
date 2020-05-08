@@ -1,1 +1,1 @@
-# Complex Valued Restricted Boltzmann Machine Autoencoder to Approach Synchrony
+# Complex Valued Restricted Boltzmann Machine Autoencoder for Neuronal Synchrony
